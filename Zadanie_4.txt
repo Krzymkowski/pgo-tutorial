@@ -1,0 +1,25 @@
+Klasy: 
+- Person 
+-Addres
+-Student
+-Professor
+
+Atrybuty i ich typy danych:
+-Name: String 
+-Surname: String
+-Age: int
+-Student Number: int
+-Avarage Mark: double
+-Salary : String
+-Street: String
+-City: String
+-State: String
+-Postal Code: int
+-Country : String
+
+Metody i typy danych (parametry i typy zwracane):
+IntroduceYourself(): String
+Is Eligible to enroll: boolean
+Get Seminars Taken: boolean 
+Validate: boolean
+Outpoot as label: String 
